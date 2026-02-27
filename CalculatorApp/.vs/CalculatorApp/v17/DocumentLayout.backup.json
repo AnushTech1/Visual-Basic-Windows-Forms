@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\CalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4466A190-1C63-4711-A153-405C13D579CF}|CalculatorApp.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\calculatorapp\\calculatorapp.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4466A190-1C63-4711-A153-405C13D579CF}|CalculatorApp.vbproj|solutionrelative:calculatorapp.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4466A190-1C63-4711-A153-405C13D579CF}|CalculatorApp.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\calculatorapp\\arithmetic.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4466A190-1C63-4711-A153-405C13D579CF}|CalculatorApp.vbproj|solutionrelative:arithmetic.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4466A190-1C63-4711-A153-405C13D579CF}|CalculatorApp.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\calculatorapp\\arithmetic.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4466A190-1C63-4711-A153-405C13D579CF}|CalculatorApp.vbproj|solutionrelative:arithmetic.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorApp",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\CalculatorApp\\CalculatorApp.vbproj",
+              "RelativeDocumentMoniker": "CalculatorApp.vbproj",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\CalculatorApp\\CalculatorApp.vbproj",
+              "RelativeToolTip": "CalculatorApp.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-09-17T08:31:36.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arithmetic.vb",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\CalculatorApp\\Arithmetic.vb",
+              "RelativeDocumentMoniker": "Arithmetic.vb",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\CalculatorApp\\Arithmetic.vb",
+              "RelativeToolTip": "Arithmetic.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T05:03:21.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arithmetic.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\CalculatorApp\\Arithmetic.vb",
+              "RelativeDocumentMoniker": "Arithmetic.vb",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\CalculatorApp\\Arithmetic.vb [Design]",
+              "RelativeToolTip": "Arithmetic.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T05:02:11.619Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
