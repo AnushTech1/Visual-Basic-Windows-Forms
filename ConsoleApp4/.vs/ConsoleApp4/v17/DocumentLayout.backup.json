@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\ConsoleApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F99C2A88-9D01-41A9-B3BF-228ED68B0B58}|ConsoleApp4.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\consoleapp4\\redimarray.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F99C2A88-9D01-41A9-B3BF-228ED68B0B58}|ConsoleApp4.vbproj|solutionrelative:redimarray.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99C2A88-9D01-41A9-B3BF-228ED68B0B58}|ConsoleApp4.vbproj|C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\ConsoleApp4\\arrayex.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F99C2A88-9D01-41A9-B3BF-228ED68B0B58}|ConsoleApp4.vbproj|solutionrelative:arrayex.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp4||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReDimArray.vb",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\ConsoleApp4\\ReDimArray.vb",
+              "RelativeDocumentMoniker": "ReDimArray.vb",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\ConsoleApp4\\ReDimArray.vb",
+              "RelativeToolTip": "ReDimArray.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-19T08:46:00.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApp4",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\ConsoleApp4\\ConsoleApp4.vbproj",
+              "RelativeDocumentMoniker": "ConsoleApp4.vbproj",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\ConsoleApp4\\ConsoleApp4.vbproj",
+              "RelativeToolTip": "ConsoleApp4.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-19T08:41:50.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayEx.vb",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\ConsoleApp4\\ArrayEx.vb",
+              "RelativeDocumentMoniker": "ArrayEx.vb",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\ConsoleApp4\\ArrayEx.vb",
+              "RelativeToolTip": "ArrayEx.vb",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA1wAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-19T08:32:48.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

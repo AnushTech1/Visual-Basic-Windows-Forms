@@ -1,0 +1,12 @@
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConsoleApp4\bin\Debug\ConsoleApp4.xml
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConsoleApp4\obj\Debug\ConsoleApp4.vbproj.AssemblyReference.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConsoleApp4\obj\Debug\ConsoleApp4.Resources.resources
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConsoleApp4\obj\Debug\ConsoleApp4.vbproj.GenerateResource.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConsoleApp4\obj\Debug\ConsoleApp4.vbproj.CoreCompileInputs.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConsoleApp4\obj\Debug\ConsoleApp4.xml
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConsoleApp4\obj\Debug\ConsoleApp4.exe.config
