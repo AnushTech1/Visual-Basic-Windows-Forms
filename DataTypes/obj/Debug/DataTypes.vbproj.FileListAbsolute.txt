@@ -1,0 +1,12 @@
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\DataTypes\obj\Debug\DataTypes.vbproj.AssemblyReference.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\DataTypes\obj\Debug\DataTypes.Resources.resources
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\DataTypes\obj\Debug\DataTypes.vbproj.GenerateResource.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\DataTypes\obj\Debug\DataTypes.vbproj.CoreCompileInputs.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\DataTypes\bin\Debug\DataTypes.exe.config
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\DataTypes\bin\Debug\DataTypes.exe
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\DataTypes\bin\Debug\DataTypes.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\DataTypes\bin\Debug\DataTypes.xml
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\DataTypes\obj\Debug\DataTypes.exe
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\DataTypes\obj\Debug\DataTypes.xml
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\DataTypes\obj\Debug\DataTypes.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\DataTypes\obj\Debug\DataTypes.exe.config
