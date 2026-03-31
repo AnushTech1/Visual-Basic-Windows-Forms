@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\StudentForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B76E25-8C54-4DFA-B32E-BA216C66A0D1}|StudentForm.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\studentform\\my project\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B9B76E25-8C54-4DFA-B32E-BA216C66A0D1}|StudentForm.vbproj|solutionrelative:my project\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B76E25-8C54-4DFA-B32E-BA216C66A0D1}|StudentForm.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\studentform\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B9B76E25-8C54-4DFA-B32E-BA216C66A0D1}|StudentForm.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B76E25-8C54-4DFA-B32E-BA216C66A0D1}|StudentForm.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\studentform\\my project\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B9B76E25-8C54-4DFA-B32E-BA216C66A0D1}|StudentForm.vbproj|solutionrelative:my project\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\StudentForm\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\StudentForm\\Form2.vb [Design]",
+              "RelativeToolTip": "Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-26T11:50:00.321Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\StudentForm\\My Project\\Login.vb",
+              "RelativeDocumentMoniker": "My Project\\Login.vb",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\StudentForm\\My Project\\Login.vb",
+              "RelativeToolTip": "My Project\\Login.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-26T11:37:22.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\StudentForm\\My Project\\Login.vb",
+              "RelativeDocumentMoniker": "My Project\\Login.vb",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\StudentForm\\My Project\\Login.vb [Design]",
+              "RelativeToolTip": "My Project\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-26T11:36:59.943Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
