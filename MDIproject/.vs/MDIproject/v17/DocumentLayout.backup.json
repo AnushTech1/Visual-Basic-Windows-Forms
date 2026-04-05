@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\MDIproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D9591E-8303-45FA-BC9D-26521622285E}|MDIproject.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\mdiproject\\parent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{98D9591E-8303-45FA-BC9D-26521622285E}|MDIproject.vbproj|solutionrelative:parent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D9591E-8303-45FA-BC9D-26521622285E}|MDIproject.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\mdiproject\\childform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{98D9591E-8303-45FA-BC9D-26521622285E}|MDIproject.vbproj|solutionrelative:childform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D9591E-8303-45FA-BC9D-26521622285E}|MDIproject.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\mdiproject\\parent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{98D9591E-8303-45FA-BC9D-26521622285E}|MDIproject.vbproj|solutionrelative:parent.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D9591E-8303-45FA-BC9D-26521622285E}|MDIproject.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\mdiproject\\mdiproject.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{98D9591E-8303-45FA-BC9D-26521622285E}|MDIproject.vbproj|solutionrelative:mdiproject.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MDIproject",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\MDIproject\\MDIproject.vbproj",
+              "RelativeDocumentMoniker": "MDIproject.vbproj",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\MDIproject\\MDIproject.vbproj",
+              "RelativeToolTip": "MDIproject.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-08-25T09:43:27.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChildForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\MDIproject\\ChildForm.vb",
+              "RelativeDocumentMoniker": "ChildForm.vb",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\MDIproject\\ChildForm.vb [Design]",
+              "RelativeToolTip": "ChildForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-25T09:15:03.312Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parent.vb",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\MDIproject\\Parent.vb",
+              "RelativeDocumentMoniker": "Parent.vb",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\MDIproject\\Parent.vb",
+              "RelativeToolTip": "Parent.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-25T09:12:18.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parent.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\MDIproject\\Parent.vb",
+              "RelativeDocumentMoniker": "Parent.vb",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\MDIproject\\Parent.vb [Design]",
+              "RelativeToolTip": "Parent.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-25T09:09:15.293Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

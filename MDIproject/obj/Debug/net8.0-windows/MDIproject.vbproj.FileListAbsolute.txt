@@ -1,0 +1,17 @@
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\obj\Debug\net8.0-windows\MDIproject.ChildForm.resources
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\obj\Debug\net8.0-windows\MDIproject.Parent.resources
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\obj\Debug\net8.0-windows\MDIproject.vbproj.GenerateResource.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\obj\Debug\net8.0-windows\MDIproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\obj\Debug\net8.0-windows\MDIproject.AssemblyInfoInputs.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\obj\Debug\net8.0-windows\MDIproject.AssemblyInfo.vb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\obj\Debug\net8.0-windows\MDIproject.vbproj.CoreCompileInputs.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\bin\Debug\net8.0-windows\MDIproject.exe
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\bin\Debug\net8.0-windows\MDIproject.deps.json
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\bin\Debug\net8.0-windows\MDIproject.runtimeconfig.json
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\bin\Debug\net8.0-windows\MDIproject.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\bin\Debug\net8.0-windows\MDIproject.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\obj\Debug\net8.0-windows\MDIproject.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\obj\Debug\net8.0-windows\refint\MDIproject.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\obj\Debug\net8.0-windows\MDIproject.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\obj\Debug\net8.0-windows\MDIproject.genruntimeconfig.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\MDIproject\obj\Debug\net8.0-windows\ref\MDIproject.dll
