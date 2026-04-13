@@ -1,0 +1,16 @@
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\bin\Debug\net8.0-windows\Notepad.exe
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\bin\Debug\net8.0-windows\Notepad.deps.json
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\bin\Debug\net8.0-windows\Notepad.runtimeconfig.json
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\bin\Debug\net8.0-windows\Notepad.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\bin\Debug\net8.0-windows\Notepad.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\obj\Debug\net8.0-windows\Notepad.Form1.resources
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\obj\Debug\net8.0-windows\Notepad.vbproj.GenerateResource.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\obj\Debug\net8.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\obj\Debug\net8.0-windows\Notepad.AssemblyInfoInputs.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\obj\Debug\net8.0-windows\Notepad.AssemblyInfo.vb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\obj\Debug\net8.0-windows\Notepad.vbproj.CoreCompileInputs.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\obj\Debug\net8.0-windows\Notepad.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\obj\Debug\net8.0-windows\refint\Notepad.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\obj\Debug\net8.0-windows\Notepad.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\obj\Debug\net8.0-windows\Notepad.genruntimeconfig.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\Notepad\obj\Debug\net8.0-windows\ref\Notepad.dll

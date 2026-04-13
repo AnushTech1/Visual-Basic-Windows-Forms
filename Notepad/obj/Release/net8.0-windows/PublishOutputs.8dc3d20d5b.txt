@@ -1,0 +1,5 @@
+C:\Users\anush\OneDrive\Desktop\New folder\Notepad.exe
+C:\Users\anush\OneDrive\Desktop\New folder\Notepad.dll
+C:\Users\anush\OneDrive\Desktop\New folder\Notepad.deps.json
+C:\Users\anush\OneDrive\Desktop\New folder\Notepad.runtimeconfig.json
+C:\Users\anush\OneDrive\Desktop\New folder\Notepad.pdb
