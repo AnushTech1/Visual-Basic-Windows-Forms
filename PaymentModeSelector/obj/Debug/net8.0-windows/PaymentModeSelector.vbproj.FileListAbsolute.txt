@@ -1,0 +1,16 @@
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\bin\Debug\net8.0-windows\PaymentModeSelector.exe
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\bin\Debug\net8.0-windows\PaymentModeSelector.deps.json
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\bin\Debug\net8.0-windows\PaymentModeSelector.runtimeconfig.json
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\bin\Debug\net8.0-windows\PaymentModeSelector.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\bin\Debug\net8.0-windows\PaymentModeSelector.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\obj\Debug\net8.0-windows\PaymentModeSelector.Form1.resources
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\obj\Debug\net8.0-windows\PaymentModeSelector.vbproj.GenerateResource.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\obj\Debug\net8.0-windows\PaymentModeSelector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\obj\Debug\net8.0-windows\PaymentModeSelector.AssemblyInfoInputs.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\obj\Debug\net8.0-windows\PaymentModeSelector.AssemblyInfo.vb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\obj\Debug\net8.0-windows\PaymentModeSelector.vbproj.CoreCompileInputs.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\obj\Debug\net8.0-windows\PaymentModeSelector.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\obj\Debug\net8.0-windows\refint\PaymentModeSelector.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\obj\Debug\net8.0-windows\PaymentModeSelector.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\obj\Debug\net8.0-windows\PaymentModeSelector.genruntimeconfig.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\PaymentModeSelector\obj\Debug\net8.0-windows\ref\PaymentModeSelector.dll
