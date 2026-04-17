@@ -1,0 +1,16 @@
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\bin\Debug\net8.0-windows\TypeConversionDemo.exe
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\bin\Debug\net8.0-windows\TypeConversionDemo.deps.json
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\bin\Debug\net8.0-windows\TypeConversionDemo.runtimeconfig.json
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\bin\Debug\net8.0-windows\TypeConversionDemo.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\bin\Debug\net8.0-windows\TypeConversionDemo.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\obj\Debug\net8.0-windows\TypeConversionDemo.Form1.resources
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\obj\Debug\net8.0-windows\TypeConversionDemo.vbproj.GenerateResource.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\obj\Debug\net8.0-windows\TypeConversionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\obj\Debug\net8.0-windows\TypeConversionDemo.AssemblyInfoInputs.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\obj\Debug\net8.0-windows\TypeConversionDemo.AssemblyInfo.vb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\obj\Debug\net8.0-windows\TypeConversionDemo.vbproj.CoreCompileInputs.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\obj\Debug\net8.0-windows\TypeConversionDemo.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\obj\Debug\net8.0-windows\refint\TypeConversionDemo.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\obj\Debug\net8.0-windows\TypeConversionDemo.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\obj\Debug\net8.0-windows\TypeConversionDemo.genruntimeconfig.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\TypeConversionDemo\obj\Debug\net8.0-windows\ref\TypeConversionDemo.dll
