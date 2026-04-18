@@ -1,0 +1,7 @@
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConnectWithSql\obj\Debug\net8.0-windows\ConnectWithSql.vbproj.AssemblyReference.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConnectWithSql\obj\Debug\net8.0-windows\ConnectWithSql.Form1.resources
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConnectWithSql\obj\Debug\net8.0-windows\ConnectWithSql.vbproj.GenerateResource.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConnectWithSql\obj\Debug\net8.0-windows\ConnectWithSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConnectWithSql\obj\Debug\net8.0-windows\ConnectWithSql.AssemblyInfoInputs.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConnectWithSql\obj\Debug\net8.0-windows\ConnectWithSql.AssemblyInfo.vb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ConnectWithSql\obj\Debug\net8.0-windows\ConnectWithSql.vbproj.CoreCompileInputs.cache
