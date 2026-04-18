@@ -1,0 +1,17 @@
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\bin\Debug\net8.0-windows\StartupFormEx.exe
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\bin\Debug\net8.0-windows\StartupFormEx.deps.json
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\bin\Debug\net8.0-windows\StartupFormEx.runtimeconfig.json
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\bin\Debug\net8.0-windows\StartupFormEx.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\bin\Debug\net8.0-windows\StartupFormEx.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\obj\Debug\net8.0-windows\StartupFormEx.Form2.resources
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\obj\Debug\net8.0-windows\StartupFormEx.Form1.resources
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\obj\Debug\net8.0-windows\StartupFormEx.vbproj.GenerateResource.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\obj\Debug\net8.0-windows\StartupFormEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\obj\Debug\net8.0-windows\StartupFormEx.AssemblyInfoInputs.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\obj\Debug\net8.0-windows\StartupFormEx.AssemblyInfo.vb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\obj\Debug\net8.0-windows\StartupFormEx.vbproj.CoreCompileInputs.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\obj\Debug\net8.0-windows\StartupFormEx.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\obj\Debug\net8.0-windows\refint\StartupFormEx.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\obj\Debug\net8.0-windows\StartupFormEx.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\obj\Debug\net8.0-windows\StartupFormEx.genruntimeconfig.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\StartupFormEx\obj\Debug\net8.0-windows\ref\StartupFormEx.dll
