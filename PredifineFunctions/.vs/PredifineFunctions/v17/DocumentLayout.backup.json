@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\PredifineFunctions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5344ACA-BE61-4390-8D9B-C363EED7A1B6}|PredifineFunctions.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\predifinefunctions\\massageboxfunctions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B5344ACA-BE61-4390-8D9B-C363EED7A1B6}|PredifineFunctions.vbproj|solutionrelative:massageboxfunctions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5344ACA-BE61-4390-8D9B-C363EED7A1B6}|PredifineFunctions.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\predifinefunctions\\massageboxfunctions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B5344ACA-BE61-4390-8D9B-C363EED7A1B6}|PredifineFunctions.vbproj|solutionrelative:massageboxfunctions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MassageBoxFunctions.vb",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\PredifineFunctions\\MassageBoxFunctions.vb",
+              "RelativeDocumentMoniker": "MassageBoxFunctions.vb",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\PredifineFunctions\\MassageBoxFunctions.vb",
+              "RelativeToolTip": "MassageBoxFunctions.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-19T11:14:26.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MassageBoxFunctions.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\PredifineFunctions\\MassageBoxFunctions.vb",
+              "RelativeDocumentMoniker": "MassageBoxFunctions.vb",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\PredifineFunctions\\MassageBoxFunctions.vb [Design]",
+              "RelativeToolTip": "MassageBoxFunctions.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-19T11:13:07.463Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
