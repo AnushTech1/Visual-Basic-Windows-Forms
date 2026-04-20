@@ -1,0 +1,17 @@
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\obj\Debug\net8.0-windows\ColorCheckBox.Form1.resources
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\obj\Debug\net8.0-windows\ColorCheckBox.Form2.resources
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\obj\Debug\net8.0-windows\ColorCheckBox.vbproj.GenerateResource.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\obj\Debug\net8.0-windows\ColorCheckBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\obj\Debug\net8.0-windows\ColorCheckBox.AssemblyInfoInputs.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\obj\Debug\net8.0-windows\ColorCheckBox.AssemblyInfo.vb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\obj\Debug\net8.0-windows\ColorCheckBox.vbproj.CoreCompileInputs.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\bin\Debug\net8.0-windows\ColorCheckBox.exe
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\bin\Debug\net8.0-windows\ColorCheckBox.deps.json
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\bin\Debug\net8.0-windows\ColorCheckBox.runtimeconfig.json
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\bin\Debug\net8.0-windows\ColorCheckBox.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\bin\Debug\net8.0-windows\ColorCheckBox.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\obj\Debug\net8.0-windows\ColorCheckBox.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\obj\Debug\net8.0-windows\refint\ColorCheckBox.dll
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\obj\Debug\net8.0-windows\ColorCheckBox.pdb
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\obj\Debug\net8.0-windows\ColorCheckBox.genruntimeconfig.cache
+C:\Users\anush\OneDrive\Documents\Anush\WinFormAppPrograms\ColorCheckBox\obj\Debug\net8.0-windows\ref\ColorCheckBox.dll
