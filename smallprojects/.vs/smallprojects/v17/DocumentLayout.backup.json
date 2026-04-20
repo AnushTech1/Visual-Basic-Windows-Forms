@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\smallprojects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4524B5-6EBB-43B7-9696-F6D376BE5E61}|smallprojects.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\smallprojects\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AE4524B5-6EBB-43B7-9696-F6D376BE5E61}|smallprojects.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\smallprojects\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\smallprojects\\Module1.vb*",
+              "RelativeToolTip": "Module1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-26T10:19:48.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
