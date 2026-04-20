@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\Small_Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DA0126-7ED3-485A-8650-9B9630A4B287}|Small_Projects.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\small_projects\\basic_calculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E7DA0126-7ED3-485A-8650-9B9630A4B287}|Small_Projects.vbproj|solutionrelative:basic_calculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DA0126-7ED3-485A-8650-9B9630A4B287}|Small_Projects.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\small_projects\\basic_calculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E7DA0126-7ED3-485A-8650-9B9630A4B287}|Small_Projects.vbproj|solutionrelative:basic_calculator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Small_Projects||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DA0126-7ED3-485A-8650-9B9630A4B287}|Small_Projects.vbproj|c:\\users\\anush\\onedrive\\documents\\anush\\winformappprograms\\small_projects\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Small_Projects",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\Small_Projects\\Small_Projects.vbproj",
+              "RelativeDocumentMoniker": "Small_Projects.vbproj",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\Small_Projects\\Small_Projects.vbproj",
+              "RelativeToolTip": "Small_Projects.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-18T09:40:20.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Basic_calculator.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\Small_Projects\\Basic_calculator.vb",
+              "RelativeDocumentMoniker": "Basic_calculator.vb",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\Small_Projects\\Basic_calculator.vb [Design]",
+              "RelativeToolTip": "Basic_calculator.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-18T09:35:20.501Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Basic_calculator.vb",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\Small_Projects\\Basic_calculator.vb",
+              "RelativeDocumentMoniker": "Basic_calculator.vb",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\Anush\\WinFormAppPrograms\\Small_Projects\\Basic_calculator.vb",
+              "RelativeToolTip": "Basic_calculator.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-18T09:34:08.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
